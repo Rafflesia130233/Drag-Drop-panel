@@ -1,0 +1,20 @@
+E:\Data Structure\User of csharp\Drag Drop panel\Window\bin\Debug\Window.exe.config
+E:\Data Structure\User of csharp\Drag Drop panel\Window\bin\Debug\Window.exe
+E:\Data Structure\User of csharp\Drag Drop panel\Window\bin\Debug\Window.pdb
+E:\Data Structure\User of csharp\Drag Drop panel\Window\obj\Debug\Window.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Drag Drop panel\Window\obj\Debug\Window.Form1.resources
+E:\Data Structure\User of csharp\Drag Drop panel\Window\obj\Debug\Window.Properties.Resources.resources
+E:\Data Structure\User of csharp\Drag Drop panel\Window\obj\Debug\Window.csproj.GenerateResource.Cache
+E:\Data Structure\User of csharp\Drag Drop panel\Window\obj\Debug\Window.exe
+E:\Data Structure\User of csharp\Drag Drop panel\Window\obj\Debug\Window.pdb
+F:\vstudioProject\Drag Drop panel\Window\bin\Debug\Window.exe.config
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.exe
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.pdb
+F:\vstudioProject\Drag Drop panel\Window\bin\Debug\Window.exe
+F:\vstudioProject\Drag Drop panel\Window\bin\Debug\Window.pdb
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.Form1.resources
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.Form2.resources
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.Properties.Resources.resources
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.csproj.GenerateResource.Cache
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.csprojResolveAssemblyReference.cache
+F:\vstudioProject\Drag Drop panel\Window\obj\Debug\Window.Form3.resources

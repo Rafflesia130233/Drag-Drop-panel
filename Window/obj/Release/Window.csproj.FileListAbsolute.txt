@@ -1,0 +1,21 @@
+F:\vstudioProject\Drag Drop panel\Window\bin\Release\Window.exe.config
+F:\vstudioProject\Drag Drop panel\Window\bin\Release\Window.exe
+F:\vstudioProject\Drag Drop panel\Window\bin\Release\Window.pdb
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.Form1.resources
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.Form2.resources
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.Properties.Resources.resources
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.csproj.GenerateResource.Cache
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.exe
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.pdb
+F:\vstudioProject\Drag Drop panel\Window\obj\Release\Window.Form3.resources
+E:\recent importent\Drag Drop panel\Window\bin\Release\Window.exe.config
+E:\recent importent\Drag Drop panel\Window\bin\Release\Window.exe
+E:\recent importent\Drag Drop panel\Window\bin\Release\Window.pdb
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.csprojResolveAssemblyReference.cache
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.Form1.resources
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.Form2.resources
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.Form3.resources
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.Properties.Resources.resources
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.csproj.GenerateResource.Cache
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.exe
+E:\recent importent\Drag Drop panel\Window\obj\Release\Window.pdb
